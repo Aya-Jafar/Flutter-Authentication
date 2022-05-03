@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762287190784",
+    "project_id": "test-project-85c4e",
+    "storage_bucket": "test-project-85c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762287190784:android:4efc261cfc75cc714d79e5",
+        "android_client_info": {
+          "package_name": "com.aya.test_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762287190784-lvq1h7u1m19vudaf0k0le5ltit8qjesd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6z1PzoB72uGpp0I9rgD5imHKx24CjCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762287190784-lvq1h7u1m19vudaf0k0le5ltit8qjesd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
